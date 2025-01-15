@@ -3,12 +3,7 @@
 ## Table of Contents
 
 1. [Dataset](#Dataset)
-2. [Data Preprocessing](#data-preprocessing)
-3. [Exploratory Data Analysis](#exploratory-data-analysis)
-4. [Modeling](#modeling)
-5. [Model Evaluation](#model-evaluation)
-6. [Prediction](#prediction)
-7. [Conclusion](#conclusion)
+
 
 # Dataset
 
