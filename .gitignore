@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 .conda
 NoteBooks/Data_download/kaggle.json
+NoteBooks/artifacts/LSTM/LSTM_YSP.pth
